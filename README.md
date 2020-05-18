@@ -8,7 +8,7 @@
   HTML,CSS,PHP
 
   ## Live demo
-  To see the webpage in action,click thefollowing link [MyWeatherAPI](http://whats-the-weather-in-city.herokuapp.com/)
+  To see the webpage in action,click the following link [MyWeatherAPI](http://whats-the-weather-in-city.herokuapp.com/)
  
   ## Contributing
   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
